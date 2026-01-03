@@ -30,7 +30,6 @@ ROC Curve (Receiver Operating Characteristic): Visualizing the trade-off between
 
 AUC (Area Under the Curve): Quantifying the overall discriminative power.
 
-Scorecard Scaling: Converting model coefficients into a point-based scoring system for easy business interpretation.
 
 💻 Implementation
 Language: R
